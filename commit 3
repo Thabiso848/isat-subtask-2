@@ -1,0 +1,2 @@
+git add main.cpp
+git commit -m "Add binary to decimal conversion function (binToDec)"
