@@ -1,0 +1,2 @@
+git add main.cpp
+git commit -m "Initial commit: set up menu loop and program skeleton"
